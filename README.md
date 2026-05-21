@@ -63,3 +63,27 @@ Model Training
 Model Evaluation
    ↓
 Model Comparison
+
+## Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Imbalanced-learn / SMOTE
+Matplotlib
+Seaborn
+Google Colab
+Evaluation Metrics
+
+##The models are evaluated using:
+
+Accuracy
+Precision
+Recall
+F1-score
+Confusion Matrix
+Notebook
+
+The full notebook is available here:
+
+credit_risk_classification_smote.ipynb
